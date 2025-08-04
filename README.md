@@ -1,18 +1,23 @@
-## Getting Started
+# Curso Java - Módulo 1: Básico y Fundamentos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene los ejercicios y ejemplos prácticos del Módulo 1 del curso de Java. Se trabajan los conceptos más esenciales para comenzar a programar en este lenguaje.
 
-## Folder Structure
+## Temas abordados
 
-The workspace contains two folders by default, where:
+- Tipos de datos primitivos y objetos
+- Operadores aritméticos y lógicos
+- Estructuras condicionales (`if`, `else`, `switch`)
+- Estructuras repetitivas (`for`, `while`, `do-while`)
+- Entrada y salida de datos (por consola y ventanas emergentes)
+- Funciones y modularidad
+- Conversión de tipos de datos (type casting)
+- Constantes (`final`)
+- Manejo del objeto `String`
+- Clase `Math` para operaciones matemáticas
+- Clase `NumberFormat` para formateo de números
+- Uso de arrays
+- Métodos de clase vs. métodos de objeto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+📁 Todos los ejercicios están organizados en subcarpetas por tema dentro de este módulo.
